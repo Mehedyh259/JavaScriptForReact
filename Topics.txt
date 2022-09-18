@@ -1,0 +1,9 @@
+
+
+1. template string - done
+2. Tarnary Operator,Logical and or( &&, ||) - done
+3. Array Destructuring, spreading; - done
+4. Object Destructuring, spreading, optional chaining - done;
+5. Arrow Functions - done;
+6. forEach,map,Filter,Find,reduce
+
